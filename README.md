@@ -6,7 +6,7 @@ Buyers increasingly build shortlists inside AI assistants rather than search eng
 
 ### Published research
 
-- [The 2026 State of Generative Engine Optimization](https://broadcastwell.com/state-of-geo) — 860 scored AI answers across 85 B2B software companies in 61 categories. Open datasets in state-of-geo-2026](https://github.com/Broadcastwell/state-of-geo-2026).
+- [The 2026 State of Generative Engine Optimization](https://broadcastwell.com/state-of-geo) — 860 scored AI answers across 85 B2B software companies in 61 categories. Open datasets in [state-of-geo-2026](https://github.com/Broadcastwell/state-of-geo-2026).
 
 ### Free check
 

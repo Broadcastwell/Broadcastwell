@@ -16,7 +16,7 @@ Ten buyer questions for your category, put to one engine, Perplexity. You get on
 
 ### The AI Visibility Diagnostic
 
-Ten category-defining buyer questions across ChatGPT, Claude, Perplexity and Google AI Overviews, three documented repeats per question and engine pair, 120 observed answers, and a decision-ready findings report with a receipts appendix and machine-readable data files. $1,500 once, credited in full against the first month if the client starts the program: [broadcastwell.com/ai-visibility-audit](https://broadcastwell.com/ai-visibility-audit)
+Ten category-defining buyer questions across ChatGPT, Claude, Perplexity and Google AI Overviews, three documented repeats per question and engine pair, 120 observed answers, and a decision-ready findings report with a receipts appendix and machine-readable data files. $1,500 once, credited in full against the first month if the client starts the program: [broadcastwell.com/ai-visibility-audit](https://broadcastwell.com/ai-visibility-audit#request)
 
 ***
 

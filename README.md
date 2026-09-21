@@ -1,23 +1,29 @@
 # Broadcastwell
 
-AI search visibility research for B2B software.
+We measure AI search visibility for B2B software companies and carry out the agreed fixes.
 
-Buyers increasingly build shortlists inside AI assistants rather than search engines. We measure which brands those assistants actually name, which sources they cite as evidence, and what it takes to move.
+We report whether a company is named, whether its own domain is cited, and its recommendation position separately. Buyers receive the observed answers and source records behind their figures.
 
-### Published research
+## Published research
 
-- [The 2026 State of Generative Engine Optimization](https://broadcastwell.com/state-of-geo): 860 scored AI answers across 85 B2B software companies in 61 categories, on one engine held constant. Open datasets in [state-of-geo-2026](https://github.com/Broadcastwell/state-of-geo-2026).
-- [The Absence Manual](https://docs.broadcastwell.com/): a free, ungated technical manual on AI search visibility. One chapter per URL, no form, no login.
-- [The Absence Index](https://index.broadcastwell.com/): a public record of which vendors AI engines name, category by category, with every figure published beside its base and its interval.
+- [The 2026 State of GEO](https://broadcastwell.com/state-of-geo), with [open datasets](https://github.com/Broadcastwell/state-of-geo-2026).
+- [The Absence Ladder](https://broadcastwell.com/absence-ladder), on the buyer questions behind visibility gaps.
+- [Engine divergence](https://broadcastwell.com/engine-divergence), the published multi-engine Volume III.
+- [The Absence Index](https://index.broadcastwell.com), a public category benchmark.
+- [The Absence Manual](https://docs.broadcastwell.com), free to read without a form.
 
-### The free mini-audit
+## Start with a measured position
 
-Ten buyer questions for your category, put to one engine, Perplexity. You get one thing back: your position on the absence ladder, and the chapter of The Absence Manual that addresses that position. Under a minute, no call, one result per address per day: [audit.broadcastwell.com](https://audit.broadcastwell.com)
+[Free 10-question check (one engine)](https://audit.broadcastwell.com). No email needed. This is a separate tool and is not a Diagnostic baseline.
 
-### The AI Visibility Diagnostic
+- **Category Audit: $490.** Ten buyer questions across five engines, three scheduled runs. The fee credits in full against the Diagnostic within 30 days.
+- **AI Visibility Diagnostic: $990.** 35 buyer questions across five engines, three scheduled runs, 525 scheduled observed answers, adaptive runs extra. Findings, receipts and a prioritised plan under [method v1.1](https://broadcastwell.com/methodology).
+- **Fix Sprint: $2,900 for 30 days.** After a completed Diagnostic, we deliver an entity and structured data pass, up to five answer pages or rewrites, a source plan with a prepared pack for up to ten third-party sources, a crawler access check and a day 30 re-measure. Sold by conversation.
+- **Program: $13,500 per 90 days, billed $4,500 monthly.** Agreed implementation and measurement.
+- **Agency wholesale: $1,000 per client per month for the first client and $490 per client per month for each additional client.**
 
-Ten category-defining buyer questions across ChatGPT, Claude, Perplexity and Google AI Overviews, three documented repeats per question and engine pair, 120 observed answers, and a decision-ready findings report with a receipts appendix and machine-readable data files. $990 once, credited in full against the program: [broadcastwell.com/ai-visibility-audit](https://broadcastwell.com/ai-visibility-audit#request)
+The $990 Diagnostic credits in full against the Fix Sprint or the program's first invoice, once. The Sprint fee does not credit against the program. If the day 30 Sprint re-measure does not show a named count strictly greater than the Diagnostic baseline, we continue Sprint work for a further 30 days at no charge and re-measure again. No inclusion, ranking or revenue is promised.
 
-***
+[Pricing](https://broadcastwell.com/pricing) | [Terms](https://broadcastwell.com/terms) | [Talk with us](https://broadcastwell.com/contact)
 
-Broadcastwell LLC · Indiana, USA · [hello@broadcastwell.com](mailto:hello@broadcastwell.com)
+Broadcastwell LLC, Indiana, USA. [hello@broadcastwell.com](mailto:hello@broadcastwell.com)

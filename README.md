@@ -1,6 +1,6 @@
 # Broadcastwell
 
-We measure AI search visibility for B2B software companies and carry out the agreed fixes.
+We measure AI search visibility for vertical B2B software companies across ChatGPT, Claude, Perplexity, Google AI Overviews and Google AI Mode, and carry out the agreed fixes.
 
 We report whether a company is named, whether its own domain is cited, and its recommendation position separately. Buyers receive the observed answers and source records behind their figures.
 
@@ -22,7 +22,7 @@ We report whether a company is named, whether its own domain is cited, and its r
 - **Program: $13,500 per 90 days, billed $4,500 monthly.** Agreed implementation and measurement.
 - **Agency wholesale: $1,000 per client per month for the first client and $490 per client per month for each additional client.**
 
-The $990 Diagnostic credits in full against the Fix Sprint or the program's first invoice, once. The Sprint fee does not credit against the program. If the day 30 Sprint re-measure does not show a named count strictly greater than the Diagnostic baseline, we continue Sprint work for a further 30 days at no charge and re-measure again. No inclusion, ranking or revenue is promised.
+The $990 Diagnostic credits in full against the Fix Sprint or the program's first invoice, once. The Sprint fee does not credit against the program. At day 30 we re-measure the target questions on the same engines under the same method version, scheduled runs only; if the named count on the target questions is not higher than the baseline count, the $2,900 is refunded in full within five business days. No inclusion, ranking or revenue is promised.
 
 [Pricing](https://broadcastwell.com/pricing) | [Terms](https://broadcastwell.com/terms) | [Talk with us](https://broadcastwell.com/contact)
 

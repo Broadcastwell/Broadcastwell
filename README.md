@@ -22,7 +22,7 @@ We report whether a company is named, whether its own domain is cited, and its r
 - **White-label Category Audit: $490.** The agency pilot for one client and one category. [Scope](https://broadcastwell.com/white-label-audit).
 - **Index Brief: $190.** An interpretation of an existing published Index record, not a new measurement. [Scope](https://broadcastwell.com/index-brief).
 - **AI Visibility Diagnostic: $990, currently paused.** 35 buyer questions across five engines, three scheduled runs, 525 scheduled observed answers, adaptive runs extra. Findings, receipts and a prioritised plan under [method v1.1](https://broadcastwell.com/methodology).
-- **Fix Sprint: $2,900 for 30 days.** After a completed Diagnostic, we deliver an entity and structured data pass, up to five answer pages or rewrites, a source plan with a prepared pack for up to ten third-party sources, a crawler access check and a day 30 re-measure. Sold by conversation.
+- **Fix Sprint: $2,900 for 30 days.** Available directly, with a baseline measured in the first phase, or after a Category Audit or Diagnostic. We deliver an entity and structured data pass, up to five answer pages or rewrites, a source plan, a crawler access check and a day 30 re-measure on the same questions. One credit per Sprint: $490 from a Category Audit within 30 days of its delivery, or $990 from a Diagnostic. Agreed on a call. [Current scope, credits and terms](https://broadcastwell.com/pricing).
 - **Program: $13,500 per 90 days, billed $4,500 monthly.** Agreed implementation and measurement.
 - **Agency wholesale: $1,000 per client per month for the first client and $490 per client per month for each additional client.**
 
@@ -30,4 +30,4 @@ A standalone Category Audit or AI Visibility Diagnostic is refundable in full, n
 
 [Pricing](https://broadcastwell.com/pricing) | [Terms](https://broadcastwell.com/terms) | [Talk with us](https://broadcastwell.com/contact)
 
-Broadcastwell LLC, Indiana, USA. [hello@broadcastwell.com](mailto:hello@broadcastwell.com)
+Broadcastwell LLC. 517 E Kirkwood Ave, Bloomington, IN 47408. We are a team of consultants and engineers. Sairam Sivakumar, Founder, is accountable for every order. [Company facts](https://broadcastwell.com/company-facts) | [hello@broadcastwell.com](mailto:hello@broadcastwell.com)

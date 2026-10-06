@@ -11,6 +11,7 @@ We report whether a company is named, whether its own domain is cited, and its r
 - [Engine divergence](https://broadcastwell.com/engine-divergence), the published multi-engine Volume III.
 - [The Absence Index](https://index.broadcastwell.com): 286 vendor-category records across 14 categories and five engines in the September 2026 release. Observed answers on stated dates, not a ranking.
 - [Index Verified](https://index.broadcastwell.com/verified/): free DNS claims, badges, Index Briefs, corrections and one re-run per release. No payment changes any number. The fifteen-tool read-only connector's get_index_category serves the current Absence Index release, currently 2026-09. [Connector and API](https://app.broadcastwell.com/developers).
+- [Agent Ready](https://broadcastwell.com/agent-ready): the Agent Test, $490 once, runs ten buyer tasks with two runs each, recorded sessions and findings within 48 hours of task confirmation. The [Vendor Facts File](https://app.broadcastwell.com/standard/vendor-facts) is an open CC BY 4.0 schema for a vendor's own facts.
 - Three published studies: [Shortlist Gap](https://doi.org/10.5281/zenodo.22982426), [AI visibility vendor pricing](https://doi.org/10.5281/zenodo.22982430), and [run-to-run variation](https://doi.org/10.5281/zenodo.22982432).
 - [The Absence Manual](https://docs.broadcastwell.com), free to read without a form.
 - [The Absence Report](https://broadcastwell.substack.com/s/the-absence-report), the monthly letter of the Absence Index.

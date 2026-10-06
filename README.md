@@ -20,6 +20,7 @@ We report whether a company is named, whether its own domain is cited, and its r
 [Free 10-question check (one engine)](https://audit.broadcastwell.com). No email needed.
 
 - **Category Audit: $490 once.** Ten buyer questions across five engines, three scheduled runs: 150 planned answers. Findings within 48 hours of your category confirmation, with counts, sources, receipts and three prioritized fixes. [Scope](https://broadcastwell.com/category-audit).
+- **Agent Test: $490 once.** AI buying agents run ten tasks on your category and site, two runs each, every session recorded and scored by published rules. Findings within 48 hours of task confirmation. [Agent Ready](https://broadcastwell.com/agent-ready).
 - **White-label Category Audit: $490 per client report.** One client and one category, under the agency's name. [Scope](https://broadcastwell.com/white-label-audit).
 - **Index Brief with page review: $190.** An interpretation of an existing published Index record plus a review of one buyer page. [Scope](https://broadcastwell.com/index-brief).
 - **Fix Sprint: $2,900 for 30 days.** Available directly, with a baseline measured in the first phase, or after a Category Audit. We deliver an entity and structured data pass, up to five answer pages or rewrites, a source plan, a crawler access check and a day 30 re-measure on the same questions. The $490 credits once against the $2,900 Fix Sprint within 30 days of delivery, so the Sprint is $2,410. [Current scope, credits and terms](https://broadcastwell.com/pricing).

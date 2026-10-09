@@ -32,6 +32,10 @@ Answers captured under method v1.1 on 22 to 23 Sep 2026 for the Absence Index re
 
 Any named company may request one no-cost re-run at index@broadcastwell.com; both results are published.
 
+## Partner Network
+
+- [Strategic Partner track](https://broadcastwell.com/partners): bring a B2B software client and stay the relationship contact; our team delivers. [Schedule v2026-10-SP](https://app.broadcastwell.com/launchpad/agreement/strategic).
+
 ## Start with a measured position
 
 [Free 10 question check (one engine)](https://audit.broadcastwell.com). No email needed.

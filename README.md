@@ -34,7 +34,7 @@ Any named company may request one no-cost re-run at index@broadcastwell.com; bot
 
 ## Partner Network
 
-- [Strategic Partner track](https://broadcastwell.com/partners): bring a B2B software client and stay the relationship contact; our team delivers. [Schedule v2026-10-SP](https://app.broadcastwell.com/launchpad/agreement/strategic).
+- [Strategic Partner track](https://broadcastwell.com/partners): bring a B2B software client and stay the relationship contact; our team delivers. [Published schedule](https://app.broadcastwell.com/launchpad/agreement/strategic).
 
 ## Start with a measured position
 
